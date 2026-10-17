@@ -57,7 +57,7 @@ tasktracker-projeto/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/lourencocantomoniz/tasktracker-projeto.git
+   git clone https://github.com/lourencocantomoniz-rgb/tasktracker-projeto.git
    ```
 2. Entre na pasta do projeto:
    ```bash
