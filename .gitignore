@@ -4,8 +4,11 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
+
+# Ambientes virtuais
+.venv/
 venv/
+env/
 ENV/
 
 # VS Code & IDEs
